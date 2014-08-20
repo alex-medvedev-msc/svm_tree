@@ -6,5 +6,5 @@ import numpy as np
 tree = SVMTree()
 
 print(tree.grid_search(10))
-
+#finded by grid
 best = (0.97394736842105267, 32768, 0.125)
